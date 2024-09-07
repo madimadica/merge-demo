@@ -4,6 +4,7 @@ arr1 = [
     "bravo",
     "charlie",
     "delta",
+    "oscar"
     "echo",
     "foxtrot",
     "golf",
@@ -15,6 +16,7 @@ arr2 = [
     "Alpha",
     "Bravo",
     "Charlie",
+    "Oscar"
     "Delta",
     "Echo",
     "Foxtrot",
