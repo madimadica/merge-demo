@@ -3,6 +3,7 @@ arr1 = [
     "alpha",
     "bravo",
     "charlie",
+    "oscar"
     "delta",
     "oscar"
     "echo",
